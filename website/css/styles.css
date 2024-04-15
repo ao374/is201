@@ -9,13 +9,14 @@ h1{
 }
 h5{
     text-align: center;
-font-style: normal;}
+font-style: normal;
+font-size: larger;}
 a{color: black;}
 a:visited{color: blue;} 
 img{
-    border: 2px solid rgb(80, 255, 147);
+    border: 4px solid rgb(127, 155, 173);
     padding: 3px;
-    margin: 5px;
+    margin: 2px;
     /*centers stuff*/
     display: block;
     margin: auto;
@@ -27,7 +28,7 @@ img{
 .rizz{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     border: 3px; 
-    background-color: aquamarine;
+    background-color: rgb(127, 155, 173);
     font-size: larger;
     li{
         text-decoration: overline;
@@ -35,4 +36,11 @@ img{
     li{
         text-decoration: underline;
     }
+.iframe{
+    display: block;
+    margin: auto;
+}
+.bodyresume{
+    background-color: rgb(127, 155, 173) ;
+}
    

@@ -1,12 +1,17 @@
 body{
     font-family: 'Courier New', Courier, monospace;
+
+        background-image: linear-gradient(rgba(47, 70, 77, 0.65), rgba(15, 39, 47, 0.65)), url("../assets/img/bg.jpg");
+        background-attachment: fixed;
+        background-position: center;
+        background-size: cover;
 }
 .site-heading-lower{
-    font-family: comic 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .mb-3{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: yellow !important;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0) !important;
 }
 .notyellow{
     color: black !important;
@@ -16,4 +21,19 @@ body{
 }
 .section-heading-lower{
     box-shadow: 5px 5px 10px rgb(76, 76, 92);
+}
+.cta{
+    background-color: rgb(126, 124, 124);
+}
+.footer{
+    background-color: #f6e1c5;
+}
+.text-faded{
+    color: black;
+}
+.intro-img{
+    border-image-width: 300px !important;
+}
+.navbar-dark{
+    background-color: rgb(76, 76, 92) !important;
 }
