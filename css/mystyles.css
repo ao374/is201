@@ -23,7 +23,7 @@ body{
     box-shadow: 5px 5px 10px rgb(76, 76, 92);
 }
 .cta{
-    background-color: rgb(126, 124, 124);
+    background-color: rgb(76, 76, 92);
 }
 .footer{
     background-color: #f6e1c5;
@@ -32,7 +32,7 @@ body{
     color: black;
 }
 .intro-img{
-    border-image-width: 300px !important;
+    width: 40% !important;
 }
 .navbar-dark{
     background-color: rgb(76, 76, 92) !important;
